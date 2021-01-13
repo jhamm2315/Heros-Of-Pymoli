@@ -1,6 +1,6 @@
 # Heros-Of-Pymoli
 
-![Fantasy](Images/Game_Fantasy.png)
+
 Summary of Data
 
 Player Count
