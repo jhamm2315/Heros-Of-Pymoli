@@ -1,5 +1,5 @@
 # Heros-Of-Pymoli
-
+![Fantasy](Images/Game_Fantasy.png)
 
 Summary of Data
 
@@ -28,16 +28,17 @@ Purchasing Analysis (Gender)
  
 Purchasing Analysis (Age)
 ________________________________________________
-
+![AGE_DEMO](Images/Age_DEMO.png)
 
 Most Popular Items
 _________________________________________________
-  
+  ![AGE_DEMO](Images/Most_Pop_item.png)
+
 
 Top Spender
 __________________________________________________
-
+![AGE_DEMO](Images/Top_spenders.png)
   
  Most Profitable Items 
   ________________________________________________
-
+!![AGE_DEMO](Images/Profit.PNG)
